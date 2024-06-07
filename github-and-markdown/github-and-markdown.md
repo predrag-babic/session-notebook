@@ -9,3 +9,4 @@
 -git push
 -git pull
 -git status
+-git checkout - 6 erste Ziffern
