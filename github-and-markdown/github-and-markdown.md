@@ -4,7 +4,7 @@
 
 ## Useful commands
 
--git add
+-git add -file name
 -git commit -m
 -git push
 -git pull
