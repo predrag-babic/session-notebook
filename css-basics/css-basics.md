@@ -12,3 +12,7 @@
 ### CSS Properties
 
 ![Css-properties](./images/css-properties.PNG)
+
+### Box Model
+
+![box-model](./images/box-model.PNG)
